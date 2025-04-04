@@ -4,7 +4,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import MovieGrid from './components/MoviesGrid';
 import WatchList from './components/WatchList';
-import {BrowserRouter as Router,Route,Routes,Link, Links} from "react-router-dom"; 
+import {BrowserRouter as Router,Route,Routes,Link} from "react-router-dom"; 
 import React,{useState,useEffect} from "react";
 
 function App() {
